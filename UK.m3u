@@ -1,0 +1,997 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="########   United Kingdom   ########" tvg-logo="http://secure.clientportal.link/picons/unitedkingdom.png" group-title="United Kingdom",########   United Kingdom   ########
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13306.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC1 UK" tvg-logo="http://secure.clientportal.link/picons/bbcone.png" group-title="United Kingdom",BBC1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3580.ts
+#EXTINF:-1 tvg-id="BBC1 Wales UK" tvg-name="BBC1 Wales UK" tvg-logo="http://secure.clientportal.link/picons/bbcone.png" group-title="United Kingdom",BBC1 Wales UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12355.ts
+#EXTINF:-1 tvg-id="BBC2 UK" tvg-name="BBC2 UK" tvg-logo="http://secure.clientportal.link/picons/bbctwo.png" group-title="United Kingdom",BBC2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3581.ts
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-logo="http://secure.clientportal.link/picons/cbeebies.png" group-title="United Kingdom",CBeebies UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3582.ts
+#EXTINF:-1 tvg-id="BBC Red Button 1 UK" tvg-name="BBC Red Button 1 UK" tvg-logo="http://secure.clientportal.link/picons/bbcredbutton.png" group-title="United Kingdom",BBC Red Button 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1996.ts
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-logo="http://secure.clientportal.link/picons/bbcnews.png" group-title="United Kingdom",BBC News UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4020.ts
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV1 UK" tvg-logo="http://secure.clientportal.link/picons/itv.png" group-title="United Kingdom",ITV1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3576.ts
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 UK" tvg-logo="http://secure.clientportal.link/picons/itv2.png" group-title="United Kingdom",ITV2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3577.ts
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 UK" tvg-logo="http://secure.clientportal.link/picons/itv3.png" group-title="United Kingdom",ITV3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3578.ts
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 UK" tvg-logo="http://secure.clientportal.link/picons/itv4.png" group-title="United Kingdom",ITV4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3579.ts
+#EXTINF:-1 tvg-id="ITV Encore UK" tvg-name="ITV Encore UK" tvg-logo="http://secure.clientportal.link/picons/itvencore.png" group-title="United Kingdom",ITV Encore UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8076.ts
+#EXTINF:-1 tvg-id="ITV Encore UK" tvg-name="ITV Encore HD UK" tvg-logo="http://secure.clientportal.link/picons/itvencore.png" group-title="United Kingdom",ITV Encore HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14293.ts
+#EXTINF:-1 tvg-id="ITVBe UK" tvg-name="ITVBe UK" tvg-logo="http://secure.clientportal.link/picons/itvbe.png" group-title="United Kingdom",ITVBe UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/9587.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV1 UK" tvg-logo="http://secure.clientportal.link/picons/etv.png" group-title="United Kingdom",ETV1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10195.ts
+#EXTINF:-1 tvg-id="at the races UK" tvg-name="At the Races UK" tvg-logo="http://secure.clientportal.link/picons/attheraces.png" group-title="United Kingdom",At the Races UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1997.ts
+#EXTINF:-1 tvg-id="Bloomberg TV UK" tvg-name="Bloomberg TV UK" tvg-logo="http://secure.clientportal.link/picons/bloomberg.png" group-title="United Kingdom",Bloomberg TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8298.ts
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang UK" tvg-logo="http://secure.clientportal.link/picons/boomerang.png" group-title="United Kingdom",Boomerang UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1962.ts
+#EXTINF:-1 tvg-id="BoxNation UK" tvg-name="BoxNation UK" tvg-logo="http://secure.clientportal.link/picons/boxnation.png" group-title="United Kingdom",BoxNation UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4010.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS F1 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14656.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 5 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 5 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14655.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 4 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 4 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14654.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 3 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 3 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14653.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 2 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 2 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14652.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 1 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14651.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 3 HD 1080P" tvg-logo="" group-title="United Kingdom",BT SPORTS 3 HD 1080P
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14659.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 2 HD 1080P" tvg-logo="" group-title="United Kingdom",BT SPORTS 2 HD 1080P
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14658.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1 HD 1080P" tvg-logo="" group-title="United Kingdom",BT SPORTS 1 HD 1080P
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14657.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 UK" tvg-logo="http://secure.clientportal.link/picons/btsport1.png" group-title="United Kingdom",BT Sport 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3586.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 UK" tvg-logo="http://secure.clientportal.link/picons/btsport2.png" group-title="United Kingdom",BT Sport 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3588.ts
+#EXTINF:-1 tvg-id="BT Sport Europe UK" tvg-name="BT Sport 3 UK" tvg-logo="http://secure.clientportal.link/picons/btsporteurope.png" group-title="United Kingdom",BT Sport 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1965.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport EXTRA UK" tvg-logo="http://secure.clientportal.link/picons/btsportextra.png" group-title="United Kingdom",BT Sport EXTRA UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2682.ts
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport ESPN UK" tvg-logo="http://secure.clientportal.link/picons/btsportespn.png" group-title="United Kingdom",BT Sport ESPN UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2673.ts
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 UK" tvg-logo="http://secure.clientportal.link/picons/eurosport1uk.png" group-title="United Kingdom",Eurosport 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3590.ts
+#EXTINF:-1 tvg-id="eir Sport 2 UK" tvg-name="eir Sport 2 UK" tvg-logo="http://secure.clientportal.link/picons/eirsport2.png" group-title="United Kingdom",eir Sport 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12344.ts
+#EXTINF:-1 tvg-id="eir Sport 1 UK" tvg-name="eir Sport 1 UK" tvg-logo="http://secure.clientportal.link/picons/eirsport1.png" group-title="United Kingdom",eir Sport 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12343.ts
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 UK" tvg-logo="http://secure.clientportal.link/picons/eurosport2uk.png" group-title="United Kingdom",Eurosport 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3591.ts
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports UK" tvg-logo="http://secure.clientportal.link/picons/premiersports.png" group-title="United Kingdom",Premier Sports UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3584.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports 1 UK" tvg-logo="http://secure.clientportal.link/picons/skysports1.png" group-title="United Kingdom",Sky Sports 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3593.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports 2 UK" tvg-logo="http://secure.clientportal.link/picons/skysports2.png" group-title="United Kingdom",Sky Sports 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3595.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports 3 UK" tvg-logo="http://secure.clientportal.link/picons/skysports3.png" group-title="United Kingdom",Sky Sports 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3597.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports 4 UK" tvg-logo="http://secure.clientportal.link/picons/skysports4.png" group-title="United Kingdom",Sky Sports 4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3599.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports 5 UK" tvg-logo="http://secure.clientportal.link/picons/skysports5.png" group-title="United Kingdom",Sky Sports 5 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3601.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Box Office UK" tvg-logo="http://secure.clientportal.link/picons/skysportsboxoffice.png" group-title="United Kingdom",Sky Sports Box Office UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2684.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 UK" tvg-logo="http://secure.clientportal.link/picons/skysportsf1.png" group-title="United Kingdom",Sky Sports F1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3602.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 1 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 1 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8403.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 2 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 2 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8404.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 3 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 3 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8405.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 4 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 4 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8406.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 5 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 5 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8407.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 6 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 6 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8408.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 7 (LIVE DURING EPL)  UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 7 (LIVE DURING EPL)  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports UK" tvg-logo="" group-title="VIP UK",Sky Net Sports UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 1 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 2 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10919.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 3 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 4 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 5 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 5 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 6 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 6 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mio Sports 7 UK" tvg-logo="" group-title="VIP UK",Mio Sports 7 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10914.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mio Sports 8 UK" tvg-logo="" group-title="VIP UK",Mio Sports 8 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10913.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 1 UK (match time)" tvg-logo="" group-title="VIP UK",PREMIER 1 UK (match time)
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13087.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 2 UK (match time)" tvg-logo="" group-title="VIP UK",PREMIER 2 UK (match time)
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13088.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 3 UK (match time)" tvg-logo="" group-title="VIP UK",PREMIER 3 UK (match time)
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13089.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 4 UK (match time)" tvg-logo="" group-title="VIP UK",PREMIER 4 UK (match time)
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13090.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 1 UK" tvg-logo="" group-title="United Kingdom",ASTRO SuperSport 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8010.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 2 UK" tvg-logo="" group-title="United Kingdom",ASTRO SuperSport 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8011.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 3 UK" tvg-logo="" group-title="United Kingdom",ASTRO SuperSport 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8012.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 4 UK" tvg-logo="" group-title="United Kingdom",ASTRO SuperSport 4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13091.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 2 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports UK" tvg-logo="" group-title="United Kingdom",Bein Sports UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13504.ts
+#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News HD UK" tvg-logo="http://secure.clientportal.link/picons/skysportsnewshqhd.png" group-title="United Kingdom",Sky Sports News HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1954.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysportsf1hd.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3603.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports 5 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports5.png" group-title="United Kingdom",Sky Sports 5 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4458.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports 4 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports4hd.png" group-title="United Kingdom",Sky Sports 4 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3600.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports 3 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports3hd.png" group-title="United Kingdom",Sky Sports 3 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3598.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports 2 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports2hd.png" group-title="United Kingdom",Sky Sports 2 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/5601.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports 1 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports1hd.png" group-title="United Kingdom",Sky Sports 1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/5600.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 HD UK" tvg-logo="http://secure.clientportal.link/picons/btsport2hd.png" group-title="United Kingdom",BT Sport 2 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1992.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 HD UK" tvg-logo="http://secure.clientportal.link/picons/btsport1hd.png" group-title="United Kingdom",BT Sport 1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1991.ts
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport Espn HD UK" tvg-logo="http://secure.clientportal.link/picons/eurosport1hd.png" group-title="United Kingdom",BT Sport Espn HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1980.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports Europe HD" tvg-logo="" group-title="",BT Sports Europe HD
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix HD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Mix HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14902.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky2 (a) UK" tvg-logo="" group-title="United Kingdom",Sky2 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky1 +1 UK" tvg-logo="" group-title="United Kingdom",Sky1 +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports F1 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 (c) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 5 (c) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 5 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14741.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 5 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14742.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 4 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 4 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 4 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 4 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 (c) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 3 (c) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 3 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 3 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 (c) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 2 (c) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 2 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14749.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 2 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 (c) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 1 (c) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 1 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 1 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14753.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Cartoon Network UK" tvg-name="Cartoon Network UK" tvg-logo="http://secure.clientportal.link/picons/cartoonnetwork.png" group-title="United Kingdom",Cartoon Network UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3967.ts
+#EXTINF:-1 tvg-id="CBS Action UK" tvg-name="CBS Action UK" tvg-logo="http://secure.clientportal.link/picons/cbsaction.png" group-title="United Kingdom",CBS Action UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3944.ts
+#EXTINF:-1 tvg-id="CBS Drama UK" tvg-name="CBS Drama UK" tvg-logo="http://secure.clientportal.link/picons/cbsdrama.png" group-title="United Kingdom",CBS Drama UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3945.ts
+#EXTINF:-1 tvg-id="CBS Reality UK" tvg-name="CBS Reality UK" tvg-logo="http://secure.clientportal.link/picons/cbsreality.png" group-title="United Kingdom",CBS Reality UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3946.ts
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop UK" tvg-logo="http://secure.clientportal.link/picons/tinypop.png" group-title="United Kingdom",Tiny Pop UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/9898.ts
+#EXTINF:-1 tvg-id="5USA UK" tvg-name="5USA UK" tvg-logo="http://secure.clientportal.link/picons/5usa.png" group-title="United Kingdom",5USA UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2652.ts
+#EXTINF:-1 tvg-id="5STAR UK" tvg-name="5STAR UK" tvg-logo="http://secure.clientportal.link/picons/5star.png" group-title="United Kingdom",5STAR UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/9908.ts
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 London UK" tvg-logo="http://secure.clientportal.link/picons/channel4uk.png" group-title="United Kingdom",Channel 4 London UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2681.ts
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://secure.clientportal.link/picons/channel5uk.png" group-title="United Kingdom",Channel 5 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2680.ts
+#EXTINF:-1 tvg-id="Chelsea TV UK" tvg-name="Chelsea TV UK" tvg-logo="http://secure.clientportal.link/picons/chelseatv.png" group-title="United Kingdom",Chelsea TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1990.ts
+#EXTINF:-1 tvg-id="Colors UK" tvg-name="Colors UK" tvg-logo="http://secure.clientportal.link/picons/colors.png" group-title="United Kingdom",Colors UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1988.ts
+#EXTINF:-1 tvg-id="CITV UK" tvg-name="CITV UK" tvg-logo="http://secure.clientportal.link/picons/citv.png" group-title="United Kingdom",CITV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/9588.ts
+#EXTINF:-1 tvg-id="3e UK" tvg-name="3e UK" tvg-logo="http://secure.clientportal.link/picons/3e.png" group-title="United Kingdom",3e UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3953.ts
+#EXTINF:-1 tvg-id="4seven UK" tvg-name="4seven UK" tvg-logo="http://secure.clientportal.link/picons/4seven.png" group-title="United Kingdom",4seven UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3961.ts
+#EXTINF:-1 tvg-id="Alibi UK" tvg-name="Alibi Ireland UK" tvg-logo="http://secure.clientportal.link/picons/alibi.png" group-title="United Kingdom",Alibi Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3954.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://secure.clientportal.link/picons/animalplanet.png" group-title="United Kingdom",Animal Planet UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2683.ts
+#EXTINF:-1 tvg-id="Baby TV UK" tvg-name="Baby TV UK" tvg-logo="http://secure.clientportal.link/picons/babytv.png" group-title="United Kingdom",Baby TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/11425.ts
+#EXTINF:-1 tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="http://secure.clientportal.link/picons/comedycentral.png" group-title="United Kingdom",Comedy Central UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3948.ts
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra UK" tvg-logo="http://secure.clientportal.link/picons/comedycentralextra.png" group-title="United Kingdom",Comedy Central Extra UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2668.ts
+#EXTINF:-1 tvg-id="CNN UK" tvg-name="CNN UK" tvg-logo="http://secure.clientportal.link/picons/cnn.png" group-title="United Kingdom",CNN UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3995.ts
+#EXTINF:-1 tvg-id="Dave UK" tvg-name="Dave Ireland UK" tvg-logo="http://secure.clientportal.link/picons/dave.png" group-title="United Kingdom",Dave Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1987.ts
+#EXTINF:-1 tvg-id="Dave ja vu UK" tvg-name="Dave ja vu UK" tvg-logo="http://secure.clientportal.link/picons/davejavu.png" group-title="United Kingdom",Dave ja vu UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/11424.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery Channel UK" tvg-logo="http://secure.clientportal.link/picons/discoverychannel.png" group-title="United Kingdom",Discovery Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1986.ts
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://secure.clientportal.link/picons/discoveryhistory.png" group-title="United Kingdom",Discovery History UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1985.ts
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Discovery Investigation UK" tvg-logo="http://secure.clientportal.link/picons/discoveryinvestigation.png" group-title="United Kingdom",Discovery Investigation UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3982.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://secure.clientportal.link/picons/discoveryscience.png" group-title="United Kingdom",Discovery Science UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2679.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science  UK" tvg-logo="http://secure.clientportal.link/picons/discoverysciencehd.png" group-title="United Kingdom",Discovery Science  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4069.ts
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://secure.clientportal.link/picons/discoveryturbo.png" group-title="United Kingdom",Discovery Turbo UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3978.ts
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery World UK" tvg-logo="http://secure.clientportal.link/picons/discoveryworld.png" group-title="United Kingdom",Discovery World UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2678.ts
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://secure.clientportal.link/picons/dmax.png" group-title="United Kingdom",DMAX UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1983.ts
+#EXTINF:-1 tvg-id="HISTORY UK" tvg-name="History UK" tvg-logo="http://secure.clientportal.link/picons/history.png" group-title="United Kingdom",History UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3976.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="Nat Geo Wild UK" tvg-logo="http://secure.clientportal.link/picons/natgeowild.png" group-title="United Kingdom",Nat Geo Wild UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1968.t
+#EXTINF:-1 tvg-id="National Geographic UK" tvg-name="National Geographic UK" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" group-title="United Kingdom",National Geographic UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3561.ts
+#EXTINF:-1 tvg-id="QUEST UK" tvg-name="QUEST UK" tvg-logo="http://secure.clientportal.link/picons/quest.png" group-title="United Kingdom",QUEST UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3959.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel UK" tvg-logo="http://secure.clientportal.link/picons/disneychannel.png" group-title="United Kingdom",Disney Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1984.ts
+#EXTINF:-1 tvg-id="Disney Junior UK" tvg-name="Disney Junior UK" tvg-logo="http://secure.clientportal.link/picons/disneyjunior.png" group-title="United Kingdom",Disney Junior UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3969.ts
+#EXTINF:-1 tvg-id="Disney XD UK" tvg-name="Disney XD UK" tvg-logo="http://secure.clientportal.link/picons/disneyxd.png" group-title="United Kingdom",Disney XD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2675.ts
+
+#EXTINF:-1 tvg-id="Drama UK" tvg-name="Drama UK" tvg-logo="http://secure.clientportal.link/picons/drama.png" group-title="United Kingdom",Drama UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3957.ts
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! UK" tvg-logo="http://secure.clientportal.link/picons/e.png" group-title="United Kingdom",E! UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3966.ts
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 UK" tvg-logo="http://secure.clientportal.link/picons/e4.png" group-title="United Kingdom",E4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2674.ts
+#EXTINF:-1 tvg-id="Film4 UK" tvg-name="Film4 UK" tvg-logo="http://secure.clientportal.link/picons/film4.png" group-title="United Kingdom",Film4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1979.ts
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network UK" tvg-logo="http://secure.clientportal.link/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3991.ts
+#EXTINF:-1 tvg-id="Forces TV UK" tvg-name="Forces TV UK" tvg-logo="http://secure.clientportal.link/picons/forcestv.png" group-title="United Kingdom",Forces TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12354.ts
+#EXTINF:-1 tvg-id="FOX UK" tvg-name="FOX UK" tvg-logo="http://secure.clientportal.link/picons/fox.png" group-title="United Kingdom",FOX UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2656.ts
+#EXTINF:-1 tvg-id="Flava UK" tvg-name="Flava UK" tvg-logo="http://secure.clientportal.link/picons/flava.png" group-title="United Kingdom",Flava UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3565.ts
+#EXTINF:-1 tvg-id="FOX News UK" tvg-name="FOX News UK" tvg-logo="http://secure.clientportal.link/picons/foxnews.png" group-title="United Kingdom",FOX News UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/11429.ts
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="Gold Ireland UK" tvg-logo="http://secure.clientportal.link/picons/gold.png" group-title="United Kingdom",Gold Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1977.ts
+#EXTINF:-1 tvg-id="Good Food UK" tvg-name="Good Food UK" tvg-logo="http://secure.clientportal.link/picons/goodfood.png" group-title="United Kingdom",Good Food UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3990.ts
+#EXTINF:-1 tvg-id="H2 UK" tvg-name="H2 UK" tvg-logo="http://secure.clientportal.link/picons/h2.png" group-title="United Kingdom",H2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3569.ts
+
+#EXTINF:-1 tvg-id="Home UK" tvg-name="Home Ireland UK" tvg-logo="http://secure.clientportal.link/picons/home.png" group-title="United Kingdom",Home Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3993.ts
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel UK" tvg-logo="http://secure.clientportal.link/picons/horrorchannel.png" group-title="United Kingdom",Horror Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3941.ts
+#EXTINF:-1 tvg-id="Kerrang! TV UK" tvg-name="Kerrang! TV UK" tvg-logo="http://secure.clientportal.link/picons/kerrangtv.png" group-title="United Kingdom",Kerrang! TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12353.ts
+#EXTINF:-1 tvg-id="Liverpool FC TV UK" tvg-name="Liverpool FC TV UK" tvg-logo="http://secure.clientportal.link/picons/liverpool.png" group-title="United Kingdom",Liverpool FC TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3568.ts
+#EXTINF:-1 tvg-id="Motors TV UK" tvg-name="Motors TV UK" tvg-logo="http://secure.clientportal.link/picons/motorstv.png" group-title="United Kingdom",Motors TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4009.ts
+#EXTINF:-1 tvg-id="More4 UK" tvg-name="More4 UK" tvg-logo="http://secure.clientportal.link/picons/more4.png" group-title="United Kingdom",More4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4000.ts
+#EXTINF:-1 tvg-id="Movies4Men UK" tvg-name="Movies4Men UK" tvg-logo="http://secure.clientportal.link/picons/movies4men.png" group-title="United Kingdom",Movies4Men UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1971.ts
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV UK" tvg-logo="http://secure.clientportal.link/picons/mtvmusic.png" group-title="United Kingdom",MTV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2670.ts
+
+
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. UK" tvg-logo="http://secure.clientportal.link/picons/nickjr.png" group-title="United Kingdom",Nick Jr. UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2669.ts
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick UK" tvg-logo="http://secure.clientportal.link/picons/pick.png" group-title="United Kingdom",Pick UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3958.ts
+
+
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="Racing UK" tvg-logo="http://secure.clientportal.link/picons/racinguk.png" group-title="United Kingdom",Racing UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3585.ts
+#EXTINF:-1 tvg-id="Really UK" tvg-name="Really UK" tvg-logo="http://secure.clientportal.link/picons/really.png" group-title="United Kingdom",Really UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3947.ts
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One UK" tvg-logo="http://secure.clientportal.link/picons/rteone.png" group-title="United Kingdom",RTÉ One UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1966.ts
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ2 UK" tvg-logo="http://secure.clientportal.link/picons/rte2.png" group-title="United Kingdom",RTÉ2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1967.ts
+#EXTINF:-1 tvg-id="RTE News Now UK" tvg-name="RTÉ News Now UK" tvg-logo="http://secure.clientportal.link/picons/rtenewsnow.png" group-title="United Kingdom",RTÉ News Now UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/11423.ts
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="Real Lives UK" tvg-logo="http://secure.clientportal.link/picons/reallives.png" group-title="United Kingdom",Real Lives UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/11430.ts
+#EXTINF:-1 tvg-id="Sky 2 UK" tvg-name="Sky 2 UK" tvg-logo="http://secure.clientportal.link/picons/sky2.png" group-title="United Kingdom",Sky 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3573.ts
+#EXTINF:-1 tvg-id="Setanta Sports 1 UK" tvg-name="GINX eSportsTV UK" tvg-logo="http://secure.clientportal.link/picons/ginxesportstv.png" group-title="United Kingdom",GINX eSportsTV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3583.ts
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="Sky 1 UK" tvg-logo="http://secure.clientportal.link/picons/sky1.png" group-title="United Kingdom",Sky 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3571.ts
+#EXTINF:-1 tvg-id="Spike UK" tvg-name="Spike UK" tvg-logo="http://secure.clientportal.link/picons/spike.png" group-title="United Kingdom",Spike UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/11428.ts
+#EXTINF:-1 tvg-id="Sky Arts UK" tvg-name="Sky Arts UK" tvg-logo="http://secure.clientportal.link/picons/skyarts.png" group-title="United Kingdom",Sky Arts UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1963.ts
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="Sky Atlantic UK" tvg-logo="http://secure.clientportal.link/picons/skyatlantic.png" group-title="United Kingdom",Sky Atlantic UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3562.ts
+#EXTINF:-1 tvg-id="Sky Living UK" tvg-name="Sky Living UK" tvg-logo="http://secure.clientportal.link/picons/skyliving.png" group-title="United Kingdom",Sky Living UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3567.ts
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="Sky Movies Action & Adventure UK" tvg-logo="http://secure.clientportal.link/picons/skymoviesactionadventure.png" group-title="United Kingdom",Sky Movies Action & Adventure UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3559.ts
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="Sky Movies Action & Adventure HD UK" tvg-logo="http://secure.clientportal.link/picons/skymoviesactionadventurehd.png" group-title="United Kingdom",Sky Movies Action & Adventure HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1961.ts
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Movies Comedy  UK" tvg-logo="http://secure.clientportal.link/picons/skymoviescomedy.png" group-title="United Kingdom",Sky Movies Comedy  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3563.ts
+#EXTINF:-1 tvg-id="Sky Thriller UK" tvg-name="Sky Movies Crime & Thriller UK" tvg-logo="http://secure.clientportal.link/picons/skymoviescrimethriller.png" group-title="United Kingdom",Sky Movies Crime & Thriller UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3575.ts
+#EXTINF:-1 tvg-id="Sky Thriller UK" tvg-name="Sky Movies Crime & Thriller  UK" tvg-logo="http://secure.clientportal.link/picons/skymoviescrimethrillerhd.png" group-title="United Kingdom",Sky Movies Crime & Thriller  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1955.ts
+#EXTINF:-1 tvg-id="Sky Movies Disney UK" tvg-name="Sky Movies Disney UK" tvg-logo="http://secure.clientportal.link/picons/skymoviesdisney.png" group-title="United Kingdom",Sky Movies Disney UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3927.ts
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-name="Sky Movies Drama & Romance  UK" tvg-logo="http://secure.clientportal.link/picons/skymoviesdramaromancehd.png" group-title="United Kingdom",Sky Movies Drama & Romance  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1960.ts
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Movies Family UK" tvg-logo="http://secure.clientportal.link/picons/skymoviesfamily.png" group-title="United Kingdom",Sky Movies Family UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3566.ts
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Movies Family  UK" tvg-logo="http://secure.clientportal.link/picons/skymoviesfamilyhd.png" group-title="United Kingdom",Sky Movies Family  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3926.ts
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-name="Sky Movies Greats UK" tvg-logo="http://secure.clientportal.link/picons/skymoviesgreats.png" group-title="United Kingdom",Sky Movies Greats UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1959.ts
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="Sky Movies Premiere  UK" tvg-logo="http://secure.clientportal.link/picons/skymoviespremierehd.png" group-title="United Kingdom",Sky Movies Premiere  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1958.ts
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-name="Sky Movies Sci-Fi & Horror HD uk" tvg-logo="http://secure.clientportal.link/picons/skymoviesscifihorrorhd.png" group-title="United Kingdom",Sky Movies Sci-Fi & Horror HD uk
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1957.ts
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-logo="http://secure.clientportal.link/picons/skynews.png" group-title="United Kingdom",Sky News UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3570.ts
+
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy UK" tvg-logo="http://secure.clientportal.link/picons/syfy.png" group-title="United Kingdom",Syfy UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3939.ts
+#EXTINF:-1 tvg-id="Sony UK" tvg-name="Sony Channel UK" tvg-logo="http://secure.clientportal.link/picons/sonytv.png" group-title="United Kingdom",Sony Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12349.ts
+#EXTINF:-1 tvg-id="Star Life OK UK" tvg-name="Star Life OK UK" tvg-logo="http://secure.clientportal.link/picons/starlifeok.png" group-title="United Kingdom",Star Life OK UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12350.ts
+#EXTINF:-1 tvg-id="Star Jalsha UK" tvg-name="Star Jalsha UK" tvg-logo="http://secure.clientportal.link/picons/starjalsha.png" group-title="United Kingdom",Star Jalsha UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12352.ts
+#EXTINF:-1 tvg-id="Star Gold UK" tvg-name="Star Gold UK" tvg-logo="http://secure.clientportal.link/picons/stargold.png" group-title="United Kingdom",Star Gold UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12351.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD IN" tvg-logo="http://secure.clientportal.link/picons/sonyhd.png" group-title="India",Sony HD IN
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/6221.ts
+#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="http://secure.clientportal.link/picons/tg4.png" group-title="United Kingdom",TG4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4005.ts
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC UK" tvg-logo="http://secure.clientportal.link/picons/tlc.png" group-title="United Kingdom",TLC UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4027.ts
+#EXTINF:-1 tvg-id="True Movies 2 UK" tvg-name="True Movies 2 UK" tvg-logo="http://secure.clientportal.link/picons/truemovies2.png" group-title="United Kingdom",True Movies 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2662.ts
+#EXTINF:-1 tvg-id="True Movies 1 UK" tvg-name="True Movies 1 UK" tvg-logo="http://secure.clientportal.link/picons/truemovies1.png" group-title="United Kingdom",True Movies 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2661.ts
+#EXTINF:-1 tvg-id="VH1 UK" tvg-name="VH1 UK" tvg-logo="http://secure.clientportal.link/picons/vh1plus.png" group-title="United Kingdom",VH1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3943.ts
+#EXTINF:-1 tvg-id="" tvg-name="4Music UK" tvg-logo="http://secure.clientportal.link/picons/vivo.png" group-title="United Kingdom",4Music UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kiss UK" tvg-logo="http://secure.clientportal.link/picons/vivo.png" group-title="United Kingdom",Kiss UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Box Hits UK" tvg-logo="http://secure.clientportal.link/picons/vivo.png" group-title="United Kingdom",Box Hits UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1953.ts
+#EXTINF:-1 tvg-id="UTV Ireland UK" tvg-name="UTV Ireland UK" tvg-logo="http://secure.clientportal.link/picons/utvireland.png" group-title="United Kingdom",UTV Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/11426.ts
+#EXTINF:-1 tvg-id="W UK" tvg-name="W Ireland UK" tvg-logo="http://secure.clientportal.link/picons/watch.png" group-title="United Kingdom",W Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/11427.ts
+#EXTINF:-1 tvg-id="Box Upfront UK" tvg-name="BOX Upfront UK" tvg-logo="http://secure.clientportal.link/picons/boxupfront.png" group-title="United Kingdom",BOX Upfront UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4014.ts
+#EXTINF:-1 tvg-id="YESTERDAY UK" tvg-name="Yesterday UK" tvg-logo="http://secure.clientportal.link/picons/yesterday.png" group-title="United Kingdom",Yesterday UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3962.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 4 +1 Northern Ireland UK" tvg-logo="" group-title="United Kingdom",Channel 4 +1 Northern Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14891.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 4 Northern Ireland UK" tvg-logo="" group-title="United Kingdom",Channel 4 Northern Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14887.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Vault UK" tvg-logo="" group-title="United Kingdom",The Vault UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Glory TV UK" tvg-logo="" group-title="United Kingdom",Glory TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14837.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOD Channel UK" tvg-logo="" group-title="United Kingdom",GOD Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15040.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD +1 UK" tvg-logo="" group-title="United Kingdom",GOLD +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14836.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD UK" tvg-logo="" group-title="United Kingdom",GOLD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Heart TV UK" tvg-logo="" group-title="United Kingdom",Heart TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15037.ts
+#EXTINF:-1 tvg-id="" tvg-name="High Street TV 2 UK" tvg-logo="" group-title="United Kingdom",High Street TV 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14775.ts
+#EXTINF:-1 tvg-id="" tvg-name="High Street TV 3 UK" tvg-logo="" group-title="United Kingdom",High Street TV 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15035.ts
+#EXTINF:-1 tvg-id="" tvg-name="High Street TV UK" tvg-logo="" group-title="United Kingdom",High Street TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15036.ts
+#EXTINF:-1 tvg-id="" tvg-name="History +1 UK" tvg-logo="" group-title="United Kingdom",History +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14941.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home & Leisure UK" tvg-logo="" group-title="United Kingdom",Home & Leisure UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home +1 UK" tvg-logo="" group-title="United Kingdom",Home +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home UK" tvg-logo="" group-title="United Kingdom",Home UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Horror ch +1  UK" tvg-logo="" group-title="United Kingdom",Horror ch +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14774.ts
+#EXTINF:-1 tvg-id="" tvg-name="Horse & Country UK" tvg-logo="" group-title="United Kingdom",Horse & Country UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14832.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID +1 UK" tvg-logo="" group-title="United Kingdom",ID +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14831.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ideal Extra UK" tvg-logo="" group-title="United Kingdom",Ideal Extra UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime +1 UK" tvg-logo="" group-title="United Kingdom",Lifetime +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime UK" tvg-logo="" group-title="United Kingdom",Lifetime UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14759.ts
+#EXTINF:-1 tvg-id="" tvg-name="London Live UK" tvg-logo="" group-title="United Kingdom",London Live UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14958.ts
+#EXTINF:-1 tvg-id="" tvg-name="Madani Channel UK" tvg-logo="" group-title="United Kingdom",Madani Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Made In Bristol UK" tvg-logo="" group-title="United Kingdom",Made In Bristol UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14874.ts
+#EXTINF:-1 tvg-id="" tvg-name="Made In Leeds UK" tvg-logo="" group-title="United Kingdom",Made In Leeds UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Made In Tn&Wr UK" tvg-logo="" group-title="United Kingdom",Made In Tn&Wr UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14956.ts
+#EXTINF:-1 tvg-id="" tvg-name="Magic UK" tvg-logo="" group-title="United Kingdom",Magic UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14872.ts
+#EXTINF:-1 tvg-id="" tvg-name="MATV National UK" tvg-logo="" group-title="United Kingdom",MATV National UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15029.ts
+#EXTINF:-1 tvg-id="" tvg-name="mta-muslim tv UK" tvg-logo="" group-title="United Kingdom",mta-muslim tv UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15028.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV +1 UK" tvg-logo="" group-title="United Kingdom",MTV +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14768.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base UK" tvg-logo="" group-title="United Kingdom",MTV Base UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7319.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic UK" tvg-logo="" group-title="United Kingdom",MTV Classic UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7320.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance UK" tvg-logo="" group-title="United Kingdom",MTV Dance UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7318.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits UK" tvg-logo="" group-title="United Kingdom",MTV Hits UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7317.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music +1 UK" tvg-logo="" group-title="United Kingdom",MTV Music +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14767.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music UK" tvg-logo="" group-title="United Kingdom",MTV Music UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7316.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks UK" tvg-logo="" group-title="United Kingdom",MTV Rocks UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7315.ts
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV HD UK" tvg-logo="http://secure.clientportal.link/picons/mutv.png" group-title="United Kingdom",MUTV HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2655.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUTV UK" tvg-logo="" group-title="United Kingdom",MUTV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14939.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Channel UK" tvg-logo="" group-title="United Kingdom",My Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15027.ts
+#EXTINF:-1 tvg-id="" tvg-name="My5 UK" tvg-logo="" group-title="United Kingdom",My5 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14709.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo +1 UK" tvg-logo="" group-title="United Kingdom",Nat Geo +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14938.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 UK" tvg-logo="" group-title="United Kingdom",News18 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr +1 UK" tvg-logo="" group-title="United Kingdom",Nick Jr +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14829.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Peppa Ireland UK" tvg-logo="" group-title="United Kingdom",Nick Jr Peppa Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14827.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Peppa UK" tvg-logo="" group-title="United Kingdom",Nick Jr Peppa UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon +1 UK" tvg-logo="" group-title="United Kingdom",Nickelodeon +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14937.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon UK" tvg-logo="" group-title="United Kingdom",Nickelodeon UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14825.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons UK" tvg-logo="" group-title="United Kingdom",Nicktoons UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14824.ts
+#EXTINF:-1 tvg-id="" tvg-name="Safeer TV UK" tvg-logo="" group-title="United Kingdom",Safeer TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14793.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sangat UK" tvg-logo="" group-title="United Kingdom",Sangat UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scuzz UK" tvg-logo="" group-title="United Kingdom",Scuzz UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14866.ts
+#EXTINF:-1 tvg-id="" tvg-name="Setanta UK" tvg-logo="" group-title="United Kingdom",Setanta UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showcase 3 UK" tvg-logo="" group-title="United Kingdom",Showcase 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14792.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showcase UK" tvg-logo="" group-title="United Kingdom",Showcase UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Utsav UK" tvg-logo="" group-title="United Kingdom",Star Utsav UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14787.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz TV UK" tvg-logo="" group-title="United Kingdom",Starz TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14865.ts
+#EXTINF:-1 tvg-id="" tvg-name="STV East UK" tvg-logo="" group-title="United Kingdom",STV East UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14708.ts
+#EXTINF:-1 tvg-id="" tvg-name="STV East+1 UK" tvg-logo="" group-title="United Kingdom",STV East+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14707.ts
+#EXTINF:-1 tvg-id="" tvg-name="STV Edinburgh UK" tvg-logo="" group-title="United Kingdom",STV Edinburgh UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14953.ts
+#EXTINF:-1 tvg-id="" tvg-name="STV Glasgow UK" tvg-logo="" group-title="United Kingdom",STV Glasgow UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14952.ts
+#EXTINF:-1 tvg-id="" tvg-name="STV North UK" tvg-logo="" group-title="United Kingdom",STV North UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14706.ts
+#EXTINF:-1 tvg-id="" tvg-name="STV West UK" tvg-logo="" group-title="United Kingdom",STV West UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14705.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Syfy +1  UK" tvg-logo="" group-title="United Kingdom",Syfy +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Takbeer TV UK" tvg-logo="" group-title="United Kingdom",Takbeer TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15009.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBN UK UK" tvg-logo="" group-title="United Kingdom",TBN UK UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15008.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM +1  UK" tvg-logo="" group-title="United Kingdom",TCM +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14785.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM UK" tvg-logo="" group-title="United Kingdom",TCM UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14736.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thane UK" tvg-logo="" group-title="United Kingdom",Thane UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15007.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="RTE News Now UK" tvg-name="RT HD UK" tvg-logo="http://secure.clientportal.link/picons/skymoviesshowcase.png" group-title="United Kingdom",RT HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3923.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ummah CH UK" tvg-logo="" group-title="United Kingdom",Ummah CH UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15003.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 99 UK" tvg-logo="" group-title="United Kingdom",TV 99 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15004.ts
+#EXTINF:-1 tvg-id="" tvg-name="TJC Choice UK" tvg-logo="" group-title="United Kingdom",TJC Choice UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15005.ts
+#EXTINF:-1 tvg-id="" tvg-name="TJC UK" tvg-logo="" group-title="United Kingdom",TJC UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15006.ts
+#EXTINF:-1 tvg-id="" tvg-name="SonLife UK" tvg-logo="" group-title="United Kingdom",SonLife UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rocks & Co 1 UK" tvg-logo="" group-title="United Kingdom",Rocks & Co 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15016.ts
+#EXTINF:-1 tvg-id="" tvg-name="RishteyCine UK" tvg-logo="" group-title="United Kingdom",RishteyCine UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15017.ts
+#EXTINF:-1 tvg-id="" tvg-name="revelation UK" tvg-logo="" group-title="United Kingdom",revelation UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Racing UK HD UK" tvg-logo="" group-title="United Kingdom",Racing UK HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15019.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI UK" tvg-logo="" group-title="United Kingdom",PTC PUNJABI UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15020.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Urdu UK" tvg-logo="" group-title="United Kingdom",Peace TV Urdu UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV UK" tvg-logo="" group-title="United Kingdom",Peace TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15022.ts
+#EXTINF:-1 tvg-id="" tvg-name="PCNE Chinese UK" tvg-logo="" group-title="United Kingdom",PCNE Chinese UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15023.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOW Music UK" tvg-logo="" group-title="United Kingdom",NOW Music UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15024.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noor TV UK" tvg-logo="" group-title="United Kingdom",Noor TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15025.ts
+#EXTINF:-1 tvg-id="" tvg-name="Islam Channel UK" tvg-logo="" group-title="United Kingdom",Islam Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15030.ts
+#EXTINF:-1 tvg-id="" tvg-name="Islam Ch Urdu UK" tvg-logo="" group-title="United Kingdom",Islam Ch Urdu UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15031.ts
+#EXTINF:-1 tvg-id="" tvg-name="Irish TV UK" tvg-logo="" group-title="United Kingdom",Irish TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15032.ts
+#EXTINF:-1 tvg-id="" tvg-name="FrontRunner UK" tvg-logo="" group-title="United Kingdom",FrontRunner UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Flow TV UK" tvg-logo="" group-title="United Kingdom",Flow TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One UK" tvg-logo="" group-title="United Kingdom",Fashion One UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15045.ts
+#EXTINF:-1 tvg-id="" tvg-name="EWTN Catholic UK" tvg-logo="" group-title="United Kingdom",EWTN Catholic UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Christmas UK" tvg-logo="" group-title="United Kingdom",Sky Christmas UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Create & Craft UK" tvg-logo="" group-title="United Kingdom",Create & Craft UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Craft Channel UK" tvg-logo="" group-title="United Kingdom",Craft Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15049.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNC World UK" tvg-logo="" group-title="United Kingdom",CNC World UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clubland TV UK" tvg-logo="" group-title="United Kingdom",Clubland TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chilled TV UK" tvg-logo="" group-title="United Kingdom",Chilled TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 44 UK" tvg-logo="" group-title="United Kingdom",Channel 44 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15055.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV UK" tvg-logo="" group-title="United Kingdom",CAPITAL TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15056.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brit Asia TV UK" tvg-logo="" group-title="United Kingdom",Brit Asia TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15057.ts
+#EXTINF:-1 tvg-id="" tvg-name="Believe TV UK" tvg-logo="" group-title="United Kingdom",Believe TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15058.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV One UK" tvg-logo="" group-title="United Kingdom",TV One UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15059.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ahlulbayt TV UK" tvg-logo="" group-title="United Kingdom",Ahlulbayt TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aastha UK" tvg-logo="" group-title="United Kingdom",Aastha UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15061.ts
+#EXTINF:-1 tvg-id="" tvg-name="&tv HD UK" tvg-logo="" group-title="United Kingdom",&tv HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15062.ts
+#EXTINF:-1 tvg-id="" tvg-name="VICELAND UK" tvg-logo="" group-title="United Kingdom",VICELAND UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14923.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 +1 UK" tvg-logo="" group-title="United Kingdom",TV3 +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14924.ts
+#EXTINF:-1 tvg-id="" tvg-name="SkyNws Arabia UK" tvg-logo="" group-title="United Kingdom",SkyNws Arabia UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14925.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix UK" tvg-logo="" group-title="United Kingdom",Sky Sports Mix UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14926.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT.jr UK" tvg-logo="" group-title="United Kingdom",RT.jr UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14927.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT.2 UK" tvg-logo="" group-title="United Kingdom",RT.2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14928.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT. One +1 UK" tvg-logo="" group-title="United Kingdom",RT. One +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14929.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT. One UK" tvg-logo="" group-title="United Kingdom",RT. One UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14930.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Lives +1 UK" tvg-logo="" group-title="United Kingdom",Real Lives +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14931.ts
+#EXTINF:-1 tvg-id="" tvg-name="QVC Style UK" tvg-logo="" group-title="United Kingdom",QVC Style UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14932.ts
+#EXTINF:-1 tvg-id="" tvg-name="QVC Extra UK" tvg-logo="" group-title="United Kingdom",QVC Extra UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14933.ts
+#EXTINF:-1 tvg-id="" tvg-name="QVC Beauty UK" tvg-logo="" group-title="United Kingdom",QVC Beauty UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14934.ts
+#EXTINF:-1 tvg-id="" tvg-name="QVC UK" tvg-logo="" group-title="United Kingdom",QVC UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14935.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oireachtas TV UK" tvg-logo="" group-title="United Kingdom",Oireachtas TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14936.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation +1 UK" tvg-logo="" group-title="United Kingdom",Crime Investigation +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14942.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation UK" tvg-logo="" group-title="United Kingdom",Crime Investigation UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14943.ts
+#EXTINF:-1 tvg-id="" tvg-name="Challenge +1 UK" tvg-logo="" group-title="United Kingdom",Challenge +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14944.ts
+#EXTINF:-1 tvg-id="" tvg-name="Challenge UK" tvg-logo="" group-title="United Kingdom",Challenge UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14945.ts
+#EXTINF:-1 tvg-id="ITV4 HD UK" tvg-name="ITV4 HD UK" tvg-logo="http://secure.clientportal.link/picons/itv4hd.png" group-title="United Kingdom",ITV4 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12346.ts
+#EXTINF:-1 tvg-id="ITV3 HD UK" tvg-name="ITV3 HD UK" tvg-logo="http://secure.clientportal.link/picons/itv3hd.png" group-title="United Kingdom",ITV3 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14292.ts
+#EXTINF:-1 tvg-id="ITV2 HD UK" tvg-name="ITV2 HD UK" tvg-logo="http://secure.clientportal.link/picons/itv2hd.png" group-title="United Kingdom",ITV2 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12345.ts
+#EXTINF:-1 tvg-id="ITV HD UK" tvg-name="ITV HD UK" tvg-logo="http://secure.clientportal.link/picons/itvhd.png" group-title="United Kingdom",ITV HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1995.ts
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="http://secure.clientportal.link/picons/cbbc.png" group-title="United Kingdom",CBBC HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12348.ts
+#EXTINF:-1 tvg-id="BBC4 UK" tvg-name="BBC4 HD UK" tvg-logo="http://secure.clientportal.link/picons/bbcfourhd.png" group-title="United Kingdom",BBC4 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1993.ts
+#EXTINF:-1 tvg-id="BBC2 HD UK" tvg-name="BBC2 HD UK" tvg-logo="http://secure.clientportal.link/picons/bbctwohd.png" group-title="United Kingdom",BBC2 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12347.ts
+#EXTINF:-1 tvg-id="BBC1 HD UK" tvg-name="BBC1 HD UK" tvg-logo="http://secure.clientportal.link/picons/bbconehd.png" group-title="United Kingdom",BBC1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1994.ts
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier HD UK" tvg-logo="http://secure.clientportal.link/picons/eurosport2hd.png" group-title="United Kingdom",Premier HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1981.ts
+#EXTINF:-1 tvg-id="" tvg-name="YESTERDAY +1 UK" tvg-logo="" group-title="United Kingdom",YESTERDAY +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14814.ts
+#EXTINF:-1 tvg-id="" tvg-name="W +1 UK" tvg-logo="" group-title="United Kingdom",W +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14815.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Warehouse UK" tvg-logo="" group-title="United Kingdom",TV Warehouse UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tristar UK" tvg-logo="" group-title="United Kingdom",Tristar UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel UK" tvg-logo="" group-title="United Kingdom",Travel Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14818.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC +1 UK" tvg-logo="" group-title="United Kingdom",TLC +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14819.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB UK" tvg-logo="" group-title="United Kingdom",SONY SAB UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14820.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT UK" tvg-logo="" group-title="United Kingdom",RT UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14821.ts
+#EXTINF:-1 tvg-id="" tvg-name="Retail TV UK" tvg-logo="" group-title="United Kingdom",Retail TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14822.ts
+#EXTINF:-1 tvg-id="" tvg-name="QUEST +1 UK" tvg-logo="" group-title="United Kingdom",QUEST +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14823.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home&Health UK" tvg-logo="" group-title="United Kingdom",Discovery Home&Health UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14833.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eden +1 UK" tvg-logo="" group-title="United Kingdom",Eden +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14839.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX +1 UK" tvg-logo="" group-title="United Kingdom",DMAX +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14840.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Shed UK" tvg-logo="" group-title="United Kingdom",Discovery Shed UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disc Science +1 UK" tvg-logo="" group-title="United Kingdom",Disc Science +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery History +1 UK" tvg-logo="" group-title="United Kingdom",Discovery History +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14843.ts
+#EXTINF:-1 tvg-id="" tvg-name="ComedyXtra Ireland UK" tvg-logo="" group-title="United Kingdom",ComedyXtra Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14844.ts
+#EXTINF:-1 tvg-id="" tvg-name="ComedyXtra +1 UK" tvg-logo="" group-title="United Kingdom",ComedyXtra +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Ireland UK" tvg-logo="" group-title="United Kingdom",Comedy Central Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14846.ts
+#EXTINF:-1 tvg-id="" tvg-name="ComedyCentral +1 UK" tvg-logo="" group-title="United Kingdom",ComedyCentral +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14847.ts
+#EXTINF:-1 tvg-id="" tvg-name="BET  UK" tvg-logo="" group-title="United Kingdom",BET  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Best Direct UK" tvg-logo="" group-title="United Kingdom",Best Direct UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14849.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet +1 UK" tvg-logo="" group-title="United Kingdom",Animal Planet +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14850.ts
+#EXTINF:-1 tvg-id="" tvg-name="alibi +1 UK" tvg-logo="" group-title="United Kingdom",alibi +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya UK" tvg-logo="" group-title="United Kingdom",Al Arabiya UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14852.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABP News UK" tvg-logo="" group-title="United Kingdom",ABP News UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14853.ts
+#EXTINF:-1 tvg-id="" tvg-name="AAJ TAK UK" tvg-logo="" group-title="United Kingdom",AAJ TAK UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14854.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vintage TV UK" tvg-logo="" group-title="United Kingdom",Vintage TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Ireland UK" tvg-logo="" group-title="United Kingdom",Universal Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal +1  UK" tvg-logo="" group-title="United Kingdom",Universal +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal UK" tvg-logo="" group-title="United Kingdom",Universal UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel +1 UK" tvg-logo="" group-title="United Kingdom",Travel Channel +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14784.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus UK" tvg-logo="" group-title="United Kingdom",Star Plus UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14788.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies +1 UK" tvg-logo="" group-title="United Kingdom",Sony Movies +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14789.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies UK" tvg-logo="" group-title="United Kingdom",Sony Movies UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14790.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel +1 UK" tvg-logo="" group-title="United Kingdom",Sony Channel +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14791.ts
+#EXTINF:-1 tvg-id="" tvg-name="Property Show UK" tvg-logo="" group-title="United Kingdom",Property Show UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Olive TV UK" tvg-logo="" group-title="United Kingdom",Olive TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14796.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movies 24 UK" tvg-logo="" group-title="United Kingdom",Movies 24 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14797.ts
+#EXTINF:-1 tvg-id="" tvg-name="mov4men +1 UK" tvg-logo="" group-title="United Kingdom",mov4men +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14798.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eman Channel UK" tvg-logo="" group-title="United Kingdom",Eman Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14800.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Ireland UK" tvg-logo="" group-title="United Kingdom",E! Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14801.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! +1  UK" tvg-logo="" group-title="United Kingdom",E! +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channels 24 UK" tvg-logo="" group-title="United Kingdom",Channels 24 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14803.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel AKA UK" tvg-logo="" group-title="United Kingdom",Channel AKA UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14804.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Mosaic 2 UK" tvg-logo="" group-title="United Kingdom",BT Sport Mosaic 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14805.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 6 UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 6 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14806.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 4 UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14807.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 3 UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14808.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 2 UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Inspiration  UK" tvg-logo="" group-title="United Kingdom",Inspiration  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14810.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bike UK" tvg-logo="" group-title="United Kingdom",Bike UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14811.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABN TV UK" tvg-logo="" group-title="United Kingdom",ABN TV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14813.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC Ireland UK" tvg-logo="" group-title="United Kingdom",TLC Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14764.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Select UK" tvg-logo="" group-title="United Kingdom",Sky Movies Select UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14765.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Premier +1 UK" tvg-logo="" group-title="United Kingdom",Sky Premier +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Psychic Today UK" tvg-logo="" group-title="United Kingdom",Psychic Today UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ove World Tv UK" tvg-logo="" group-title="United Kingdom",Ove World Tv UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Ireland UK" tvg-logo="" group-title="United Kingdom",Discovery Ireland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery +1 UK" tvg-logo="" group-title="United Kingdom",Discovery +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14770.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality +1 UK" tvg-logo="" group-title="United Kingdom",CBS Reality +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14776.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Mosaic UK" tvg-logo="" group-title="United Kingdom",BT Sport Mosaic UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14777.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 1  UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14778.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC from BT UK" tvg-logo="" group-title="United Kingdom",AMC from BT UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14779.ts
+#EXTINF:-1 tvg-id="" tvg-name="ViVa UK" tvg-logo="" group-title="United Kingdom",ViVa UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7322.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 UK" tvg-logo="" group-title="United Kingdom",TV3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14735.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Living +1  UK" tvg-logo="" group-title="United Kingdom",Sky Living +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Hits  UK" tvg-logo="" group-title="United Kingdom",Sky Hits  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Box Office  UK" tvg-logo="" group-title="United Kingdom",Sky Box Office  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14756.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic +1 UK" tvg-logo="" group-title="United Kingdom",Sky Atlantic +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14757.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pick +1  UK" tvg-logo="" group-title="United Kingdom",Pick +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD +1  UK" tvg-logo="" group-title="United Kingdom",Disney XD +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14760.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel +1  UK" tvg-logo="" group-title="United Kingdom",Disney Channel +1  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14761.ts
+#EXTINF:-1 tvg-id="" tvg-name="ComedyXtra UK" tvg-logo="" group-title="United Kingdom",ComedyXtra UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito UK" tvg-logo="" group-title="United Kingdom",Cartoonito UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14763.ts
+#EXTINF:-1 tvg-id="" tvg-name="UTV UK" tvg-logo="" group-title="United Kingdom",UTV UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14704.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITVBe+1 UK" tvg-logo="" group-title="United Kingdom",ITVBe+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14710.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV3+1 UK" tvg-logo="" group-title="United Kingdom",ITV3+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14711.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV2+1 UK" tvg-logo="" group-title="United Kingdom",ITV2+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14712.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Yorkshire West HD UK" tvg-logo="" group-title="United Kingdom",ITV Yorkshire West HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14713.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Yorkshire West UK" tvg-logo="" group-title="United Kingdom",ITV Yorkshire West UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14714.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Westcountry South West+1 UK" tvg-logo="" group-title="United Kingdom",ITV Westcountry South West+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14715.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Tyne Tees UK" tvg-logo="" group-title="United Kingdom",ITV Tyne Tees UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14716.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Meridian South East HD UK" tvg-logo="" group-title="United Kingdom",ITV Meridian South East HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14717.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Meridian South East UK" tvg-logo="" group-title="United Kingdom",ITV Meridian South East UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14718.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Meridian South UK" tvg-logo="" group-title="United Kingdom",ITV Meridian South UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14719.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Encore+1 UK" tvg-logo="" group-title="United Kingdom",ITV Encore+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14721.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Central West HD UK" tvg-logo="" group-title="United Kingdom",ITV Central West HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14722.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Central West+1 UK" tvg-logo="" group-title="United Kingdom",ITV Central West+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14723.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Border UK" tvg-logo="" group-title="United Kingdom",ITV Border UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14724.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV 1 Westcountry South West UK" tvg-logo="" group-title="United Kingdom",ITV 1 Westcountry South West UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14725.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD UK" tvg-logo="" group-title="United Kingdom",CNN HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14726.ts
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5HD UK" tvg-logo="" group-title="United Kingdom",Channel 5HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14728.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5+1 UK" tvg-logo="" group-title="United Kingdom",Channel 5+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network+1 UK" tvg-logo="" group-title="United Kingdom",Cartoon Network+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang+1 UK" tvg-logo="" group-title="United Kingdom",Boomerang+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14730.ts
+#EXTINF:-1 tvg-id="" tvg-name="5 USA+1 UK" tvg-logo="" group-title="United Kingdom",5 USA+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14731.ts
+#EXTINF:-1 tvg-id="" tvg-name="5 STAR+1 UK" tvg-logo="" group-title="United Kingdom",5 STAR+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14732.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV4+1 UK" tvg-logo="" group-title="United Kingdom",ITV4+1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14671.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV6 UK" tvg-logo="" group-title="United Kingdom",ETV6 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14672.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV5 UK" tvg-logo="" group-title="United Kingdom",ETV5 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14673.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV2 UK" tvg-logo="" group-title="United Kingdom",ETV2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14674.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV1 UK" tvg-logo="" group-title="United Kingdom",ETV1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14675.ts
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies HD 1080P UK" tvg-logo="" group-title="United Kingdom",CBeebies HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14676.ts
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC UK" tvg-logo="" group-title="United Kingdom",CBBC UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14677.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two Wales UK" tvg-logo="" group-title="United Kingdom",BBC Two Wales UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14678.ts
+#EXTINF:-1 tvg-id="BBC2 UK" tvg-name="BBC Two Scotland UK" tvg-logo="" group-title="United Kingdom",BBC Two Scotland UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14679.ts
+#EXTINF:-1 tvg-id="BBC2 UK" tvg-name="BBC Two NI UK" tvg-logo="" group-title="United Kingdom",BBC Two NI UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14680.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Parliament UK" tvg-logo="" group-title="United Kingdom",BBC Parliament UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14681.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One Yorks UK" tvg-logo="" group-title="United Kingdom",BBC One Yorks UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14682.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One Yk&Li UK" tvg-logo="" group-title="United Kingdom",BBC One Yk&Li UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14683.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One West UK" tvg-logo="" group-title="United Kingdom",BBC One West UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14684.ts
+#EXTINF:-1 tvg-id="BBC1 Wales UK" tvg-name="BBC One Wales HD 1080P UK" tvg-logo="" group-title="United Kingdom",BBC One Wales HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14685.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One W Mid UK" tvg-logo="" group-title="United Kingdom",BBC One W Mid UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14686.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One South UK" tvg-logo="" group-title="United Kingdom",BBC One South UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14687.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One Scotland HD 1080P UK" tvg-logo="" group-title="United Kingdom",BBC One Scotland HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14688.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One Scotland  UK" tvg-logo="" group-title="United Kingdom",BBC One Scotland  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14689.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One S West UK" tvg-logo="" group-title="United Kingdom",BBC One S West UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14690.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One S East UK" tvg-logo="" group-title="United Kingdom",BBC One S East UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14691.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC One Oxford UK" tvg-logo="" group-title="United Kingdom",BBC One Oxford UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14692.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One NI HD 1080P UK" tvg-logo="" group-title="United Kingdom",BBC One NI HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14693.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One NI UK" tvg-logo="" group-title="United Kingdom",BBC One NI UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14694.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One NE&C UK" tvg-logo="" group-title="United Kingdom",BBC One NE&C UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14695.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One N West UK" tvg-logo="" group-title="United Kingdom",BBC One N West UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14696.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One East W UK" tvg-logo="" group-title="United Kingdom",BBC One East W UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14697.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One East E UK" tvg-logo="http://secure.clientportal.link/picons/bbcone.png" group-title="United Kingdom",BBC One East E UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14698.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One E Mid UK" tvg-logo="http://secure.clientportal.link/picons/bbcone.png" group-title="United Kingdom",BBC One E Mid UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14699.ts
+#EXTINF:-1 tvg-id="BBC1 UK" tvg-name="BBC One CI UK" tvg-logo="http://secure.clientportal.link/picons/bbcone.png" group-title="United Kingdom",BBC One CI UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14700.ts
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC NEWS HD 1080p UK" tvg-logo="" group-title="United Kingdom",BBC NEWS HD 1080p UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14701.ts
+#EXTINF:-1 tvg-id="BBC4 UK" tvg-name="BBC Four UK" tvg-logo="" group-title="United Kingdom",BBC Four UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14702.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC ALBA UK" tvg-logo="" group-title="United Kingdom",BBC ALBA UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14703.ts
