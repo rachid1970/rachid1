@@ -1,0 +1,236 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="****_Bein-Movies_****" tvg-logo="" group-title="",****_Bein-Movies_****
+http://smart-iptv2016.com:9500/live/stream156/0610509511/219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_1_HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Movies_1_HD.jpg" group-title="",AR_Bein_Movies_1_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_2_HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Movies_2_HD.jpg" group-title="",AR_Bein_Movies_2_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_3_HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Movies_3_HD.jpg" group-title="",AR_Bein_Movies_3_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_4_HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Movies_4_HD.jpg" group-title="",AR_Bein_Movies_4_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/300.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_1HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_01_HD.jpg" group-title="",beIN_Sports_1HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/371.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_1HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_01_HD.jpg" group-title="",beIN_Sports_1HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_1HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_01_HD.jpg" group-title="",beIN_Sports_1HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/682.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_2HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_02_HD.jpg" group-title="",beIN_Sports_2HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_2HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_02_HD.jpg" group-title="",beIN_Sports_2HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_2HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_02_HD.jpg" group-title="",beIN_Sports_2HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/683.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_3HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_03_HD.jpg" group-title="",beIN_Sports_3HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_3HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_03_HD.jpg" group-title="",beIN_Sports_3HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_3HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_03_HD.jpg" group-title="",beIN_Sports_3HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/684.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_4HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_04_HD.jpg" group-title="",beIN_Sports_4HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_4HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_04_HD.jpg" group-title="",beIN_Sports_4HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_4HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_04_HD.jpg" group-title="",beIN_Sports_4HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/685.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_5HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_05_HD.jpg" group-title="",beIN_Sports_5HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_5HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_05_HD.jpg" group-title="",beIN_Sports_5HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_5HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_05_HD.jpg" group-title="",beIN_Sports_5HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/686.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_6HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_06_HD.jpg" group-title="",beIN_Sports_6HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_6HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_06_HD.jpg" group-title="",beIN_Sports_6HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_6HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_06_HD.jpg" group-title="",beIN_Sports_6HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_7HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_07_HD.jpg" group-title="",beIN_Sports_7HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_7HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_07_HD.jpg" group-title="",beIN_Sports_7HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_7HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_07_HD.jpg" group-title="",beIN_Sports_7HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_8HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_08_HD.jpg" group-title="",beIN_Sports_8HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_8HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_08_HD.jpg" group-title="",beIN_Sports_8HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_8HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_08_HD.jpg" group-title="",beIN_Sports_8HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/689.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_9HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_09_HD.jpg" group-title="",beIN_Sports_9HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_9HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_09_HD.jpg" group-title="",beIN_Sports_9HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_9HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_09_HD.jpg" group-title="",beIN_Sports_9HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/690.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_10HD_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_10_HD.jpg" group-title="",beIN_Sports_10HD_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_10HD_B" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_10_HD.jpg" group-title="",beIN_Sports_10HD_B
+http://smart-iptv2016.com:9500/live/stream156/0610509511/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_10HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_10_HD.jpg" group-title="",beIN_Sports_10HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/691.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cup_Africa_1" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_11_HD.jpg" group-title="",Cup_Africa_1
+http://smart-iptv2016.com:9500/live/stream156/0610509511/692.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cup_Africa_2" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_12_HD.jpg" group-title="",Cup_Africa_2
+http://smart-iptv2016.com:9500/live/stream156/0610509511/693.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cup_Africa_3" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_13_HD.jpg" group-title="",Cup_Africa_3
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cup_Africa_4" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_14_HD.jpg" group-title="",Cup_Africa_4
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cup_Africa_5" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_15_HD.jpg" group-title="",Cup_Africa_5
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cup_Africa_6" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_16_HD.jpg" group-title="",Cup_Africa_6
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cup_Africa_7" tvg-logo="http://smart-iptv2016.com/picon/beinsports/AR_Bein_Sports_17_HD.jpg" group-title="",Cup_Africa_7
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN-SPORTS-MAX.1HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/beIN_Sports_MAX_1HD.jpg" group-title="",beIN-SPORTS-MAX.1HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/369.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN-SPORTS-MAX.2HD" tvg-logo="http://smart-iptv2016.com/picon/beinsports/beIN_Sports_MAX_2HD.jpg" group-title="",beIN-SPORTS-MAX.2HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN-SPORTS-MAX.3HD" tvg-logo="" group-title="",beIN-SPORTS-MAX.3HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1840.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN-SPORTS-MAX.4HD" tvg-logo="" group-title="",beIN-SPORTS-MAX.4HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1841.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_News_A" tvg-logo="http://smart-iptv2016.com/picon/beinsports/beIN_Sports_News.jpg" group-title="",beIN_Sports_News_A
+http://smart-iptv2016.com:9500/live/stream156/0610509511/307.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN_Sports_News" tvg-logo="http://smart-iptv2016.com/picon/beinsports/beIN_Sports_News.jpg" group-title="",beIN_Sports_News
+http://smart-iptv2016.com:9500/live/stream156/0610509511/840.ts
+#EXTINF:-1 tvg-ID="" tvg-name="****_ FOOT-PLUS-HD _****" tvg-logo="" group-title="",****_ FOOT-PLUS-HD _****
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Alfajer-Sports" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Alfajer-Sports.jpg" group-title="",AR_Alfajer-Sports
+http://smart-iptv2016.com:9500/live/stream156/0610509511/911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Alfajer-Sports-2" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Kolanass-Sports.jpg" group-title="",AR_Alfajer-Sports-2
+http://smart-iptv2016.com:9500/live/stream156/0610509511/912.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Ajyal-Sports" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Ajyal-Sports.jpg" group-title="",AR_Ajyal-Sports
+http://smart-iptv2016.com:9500/live/stream156/0610509511/913.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Fara7-Sports" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Fara7-Sports.jpg" group-title="",AR_Fara7-Sports
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Salam-Sports" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Salam-Sports.jpg" group-title="",AR_Salam-Sports
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Kolanass-Duhok-Sports" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Douhuk-Sports.jpg" group-title="",AR_Kolanass-Duhok-Sports
+http://smart-iptv2016.com:9500/live/stream156/0610509511/910.ts
+#EXTINF:-1 tvg-ID="" tvg-name=".****_Autres-Sports_****." tvg-logo="http://smart-iptv2016.com/picon/france/bestservece.jpg" group-title="",.****_Autres-Sports_****.
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_SFR-Sport-1-HDFR" tvg-logo="http://smart-iptv2016.com/picon/beinsports/FR_SFR-Sport-1-HD-A.jpg" group-title="",FR_SFR-Sport-1-HDFR
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1045.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_SFR-Sport-2-HDFR" tvg-logo="http://smart-iptv2016.com/picon/beinsports/FR_SFR-Sport-2-HD-A.jpg" group-title="",FR_SFR-Sport-2-HDFR
+http://smart-iptv2016.com:9500/live/stream156/0610509511/762.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_SFR-Sport-3-HDFR" tvg-logo="http://smart-iptv2016.com/picon/beinsports/FR_SFR-Sport-3-HD-A.jpg" group-title="",FR_SFR-Sport-3-HDFR
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1046.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Bein_Sport_1HDFR" tvg-logo="http://smart-iptv2016.com/picon/beinsports/FR_Bein_Sport_1HD_A.jpg" group-title="",FR_Bein_Sport_1HDFR
+http://smart-iptv2016.com:9500/live/stream156/0610509511/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Bein_Sport_2HDFR" tvg-logo="http://smart-iptv2016.com/picon/beinsports/FR_Bein_Sport_2HD_A.jpg" group-title="",FR_Bein_Sport_2HDFR
+http://smart-iptv2016.com:9500/live/stream156/0610509511/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Bein_Sport_3HDFR" tvg-logo="http://smart-iptv2016.com/picon/beinsports/FR_Bein_Sport_3HD_A.jpg" group-title="",FR_Bein_Sport_3HDFR
+http://smart-iptv2016.com:9500/live/stream156/0610509511/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Bein_Sport_1HD_F+" tvg-logo="" group-title="",FR_Bein_Sport_1HD_F+
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Bein_Sport_2HD_F+" tvg-logo="" group-title="",FR_Bein_Sport_2HD_F+
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Bein_Sport_3HD_F+" tvg-logo="" group-title="",FR_Bein_Sport_3HD_F+
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BEIN-MAX-4" tvg-logo="" group-title="",FR_BEIN-MAX-4
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BEIN-MAX-5" tvg-logo="" group-title="",FR_BEIN-MAX-5
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BEIN-MAX-6" tvg-logo="" group-title="",FR_BEIN-MAX-6
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BEIN-MAX-7" tvg-logo="" group-title="",FR_BEIN-MAX-7
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1832.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BEIN-MAX-8" tvg-logo="" group-title="",FR_BEIN-MAX-8
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BEIN-MAX-9" tvg-logo="" group-title="",FR_BEIN-MAX-9
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BEIN-MAX-10" tvg-logo="" group-title="",FR_BEIN-MAX-10
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1835.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES_Bein_Liga" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Bein_Liga.jpg" group-title="",ES_Bein_Liga
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1010.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES_Bein_Sports" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Bein_Sports.jpg" group-title="",ES_Bein_Sports
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1009.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES_Canal_Liga" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Canal_Liga.jpg" group-title="",ES_Canal_Liga
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1011.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES_Canal+Futbol" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/Canal+Futbol.jpg" group-title="",ES_Canal+Futbol
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1012.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SPORT_TV_1_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/SPORT_TV_1_HD.jpg" group-title="",PT_SPORT_TV_1_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1005.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SPORT_TV_2_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/SPORT_TV_2_HD.jpg" group-title="",PT_SPORT_TV_2_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SPORT_TV_3_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/SPORT_TV_3_HD.jpg" group-title="",PT_SPORT_TV_3_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SPORT_TV_4_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/SPORT_TV_4_HD.jpg" group-title="",PT_SPORT_TV_4_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1008.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT_SPORT_TV_5_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/SPORT_TV_5_HD.jpg" group-title="",PT_SPORT_TV_5_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1013.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RO_DIGI_Sport_1_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/DIGI_Sport_1_HD.jpg" group-title="",RO_DIGI_Sport_1_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/999.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RO_DIGI_Sport_2_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/DIGI_Sport_2_HD.jpg" group-title="",RO_DIGI_Sport_2_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1000.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RO_DIGI_Sport_3_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/DIGI_Sport_3_HD.jpg" group-title="",RO_DIGI_Sport_3_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RO_DIGI_Sport_4_HD" tvg-logo="http://smart-iptv2016.com/picon/autres-sports/DIGI_Sport_4_HD.jpg" group-title="",RO_DIGI_Sport_4_HD
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR_LIGTV_1_HD." tvg-logo="" group-title="",TR_LIGTV_1_HD.
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR_LIGTV_2_HD." tvg-logo="" group-title="",TR_LIGTV_2_HD.
+http://smart-iptv2016.com:9500/live/stream156/0610509511/1039.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR_LIGTV_3_HD." tvg-logo="" group-title="",TR_LIGTV_3_HD.
+http://smart-iptv2016.com:9500/live/stream156/0610509511/914.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR_LIGTV_4_HD." tvg-logo="" group-title="",TR_LIGTV_4_HD.
+http://smart-iptv2016.com:9500/live/stream156/0610509511/56.ts
+#EXTINF:-1,########   Canal-Play : Alacarte  ########
+http://smart-iptv2016.com:9500/live/stream156/0610509511/308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="****_Canal-Play_Fr_****" tvg-logo="http://smart-iptv2016.com/picon/france/bestservece.jpg" group-title="",****_Canal-Play_Fr_****
+http://smart-iptv2016.com:9500/live/stream156/0610509511/308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_1" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_1.jpg" group-title="",FR_Canal_Play_1
+http://smart-iptv2016.com:9500/live/stream156/0610509511/358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_2" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_2.jpg" group-title="",FR_Canal_Play_2
+http://smart-iptv2016.com:9500/live/stream156/0610509511/359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_3" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_3.jpg" group-title="",FR_Canal_Play_3
+http://smart-iptv2016.com:9500/live/stream156/0610509511/360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_4" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_4.jpg" group-title="",FR_Canal_Play_4
+http://smart-iptv2016.com:9500/live/stream156/0610509511/361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_5" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_5.jpg" group-title="",FR_Canal_Play_5
+http://smart-iptv2016.com:9500/live/stream156/0610509511/362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_6" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_6.jpg" group-title="",FR_Canal_Play_6
+http://smart-iptv2016.com:9500/live/stream156/0610509511/363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_7" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_7.jpg" group-title="",FR_Canal_Play_7
+http://smart-iptv2016.com:9500/live/stream156/0610509511/364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_8" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_8.jpg" group-title="",FR_Canal_Play_8
+http://smart-iptv2016.com:9500/live/stream156/0610509511/365.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_9" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_9.jpg" group-title="",FR_Canal_Play_9
+http://smart-iptv2016.com:9500/live/stream156/0610509511/366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Canal_Play_10" tvg-logo="http://smart-iptv2016.com/picon/france/Canal_Play_10.jpg" group-title="",FR_Canal_Play_10
+http://smart-iptv2016.com:9500/live/stream156/0610509511/367.ts
+#EXTINF:-1 tvg-ID="" tvg-name="****_Alacarte-Fr_****" tvg-logo="http://smart-iptv2016.com/picon/france/bestservece.jpg" group-title="",****_Alacarte-Fr_****
+http://smart-iptv2016.com:9500/live/stream156/0610509511/197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_1" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_1.jpg" group-title="",FR_Alacarte_1
+http://smart-iptv2016.com:9500/live/stream156/0610509511/341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_2" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_2.jpg" group-title="",FR_Alacarte_2
+http://smart-iptv2016.com:9500/live/stream156/0610509511/342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_3" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_3.jpg" group-title="",FR_Alacarte_3
+http://smart-iptv2016.com:9500/live/stream156/0610509511/343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_4" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_4.jpg" group-title="",FR_Alacarte_4
+http://smart-iptv2016.com:9500/live/stream156/0610509511/344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_5" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_5.jpg" group-title="",FR_Alacarte_5
+http://smart-iptv2016.com:9500/live/stream156/0610509511/345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_6" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_6.jpg" group-title="",FR_Alacarte_6
+http://smart-iptv2016.com:9500/live/stream156/0610509511/346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_7" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_7.jpg" group-title="",FR_Alacarte_7
+http://smart-iptv2016.com:9500/live/stream156/0610509511/347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_8" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_8.jpg" group-title="",FR_Alacarte_8
+http://smart-iptv2016.com:9500/live/stream156/0610509511/348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_9" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_9.jpg" group-title="",FR_Alacarte_9
+http://smart-iptv2016.com:9500/live/stream156/0610509511/349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alacarte_10" tvg-logo="http://smart-iptv2016.com/picon/france/Alacarte_10.jpg" group-title="",FR_Alacarte_10
+http://smart-iptv2016.com:9500/live/stream156/0610509511/350.ts
